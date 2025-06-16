@@ -1,5 +1,38 @@
 # May 16
 
+## Visual Studio Community Installation
+Workloads
+Asp .net desktop
+
+## Git
+
+Console Hello
+
+string 
+
+Console.Read
+
+int
+
+Int32.Parse()
+
+double
+
+dateTime
+ToString
+t
+T
+d
+D
+
+bool
+
+if else
+
+dotnet cli
+
+
+
 Class 
   Properties
   Method
@@ -18,6 +51,8 @@ double.Parse
 Create a console application that propmt use for the status of train. If the user input is true then "Take umbrella" message should come. Else "You need not take umbrella" message will come.
 
 ### 3. Double calculator which prompts for values and operator
+
+### 4. TryParse
 
 
 # Resources
