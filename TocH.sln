@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "June16", "June16", "{02EA68
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryVariable2", "MemoryVariable2\MemoryVariable2.csproj", "{7BF77CD0-4D33-495D-9E22-F8B7311946AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleRead3", "ConsoleRead3\ConsoleRead3.csproj", "{9B897B05-8AD7-41A3-8A7C-C24AC1ABA324}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{7BF77CD0-4D33-495D-9E22-F8B7311946AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BF77CD0-4D33-495D-9E22-F8B7311946AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BF77CD0-4D33-495D-9E22-F8B7311946AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B897B05-8AD7-41A3-8A7C-C24AC1ABA324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B897B05-8AD7-41A3-8A7C-C24AC1ABA324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B897B05-8AD7-41A3-8A7C-C24AC1ABA324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B897B05-8AD7-41A3-8A7C-C24AC1ABA324}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +36,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{80CD7110-AC9E-4451-AB40-03108EC7358E} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{7BF77CD0-4D33-495D-9E22-F8B7311946AE} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{9B897B05-8AD7-41A3-8A7C-C24AC1ABA324} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E84BA46E-94F1-4642-B8CC-0765B291A723}
