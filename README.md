@@ -8,7 +8,7 @@ Class
   
 ## Assignment
 ### double Calculalot
-Create a console calculator which inputs doube values and sum it.
+Create a console calculator which inputs double values and arithmetic opeartions.
 
 
 double.Parse
