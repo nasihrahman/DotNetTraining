@@ -20,3 +20,5 @@ Create a console application that propmt use for the status of train. If the use
 ### 3. Double calculator which prompts for values and operator
 
 
+# Resources
+https://www.youtube.com/watch?v=9THmGiSPjBQ&list=PLdo4fOcmZ0oULFjxrOagaERVAMbmG20Xe
