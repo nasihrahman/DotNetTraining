@@ -57,3 +57,9 @@ Create a console application that propmt use for the status of train. If the use
 
 # Resources
 https://www.youtube.com/watch?v=9THmGiSPjBQ&list=PLdo4fOcmZ0oULFjxrOagaERVAMbmG20Xe
+
+# June 17
+# Assignments
+
+## 1. Display odd numbers, even numers, multiples of 3, 4, 5 using for and while loop, using various techniques
+
