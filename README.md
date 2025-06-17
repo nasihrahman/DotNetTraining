@@ -63,3 +63,41 @@ https://www.youtube.com/watch?v=9THmGiSPjBQ&list=PLdo4fOcmZ0oULFjxrOagaERVAMbmG2
 
 ## 1. Display odd numbers, even numers, multiples of 3, 4, 5 using for and while loop, using various techniques
 
+## 2. Implement Calculator with Functions.
+Create 4 functions called Add, Subtract, Multiply and Divide
+
+## Top Level Statements
+
+## Function
+
+
+
+
+
+# OOP
+
+Class - Blue print of an object
+
+Object - Instance of Class
+
+Instantiation - Creating an Object out of class
+
+<ClassName> <objetName> = new <ClassName>();
+
+HumanBeing shalvin = new HumainBeing();
+
+## Class contains
+Properties 
+Method
+
+## Car 
+Properties 
+Fuel
+Manufacturer 
+Model
+
+Methods
+Ride
+
+
+
