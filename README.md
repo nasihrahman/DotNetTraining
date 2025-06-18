@@ -117,5 +117,8 @@ Name
 Location
 
 
-
+# Assignment
+## 1.  Generic List of class 
+Create a Generic List of Class called Technologies with properties like Name and Vendor. Initialize it with values like .Net - Microsoft, 
+Java - Oracle, etc. Use it in Console and MVC.
 
