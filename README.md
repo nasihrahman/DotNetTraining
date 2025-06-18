@@ -100,4 +100,22 @@ Methods
 Ride
 
 
+# Pillars of OOP
+
+## Abstraction
+
+## Encapsulation
+
+## Polymorphism
+
+## Inheritance
+
+
+## Class
+Trainee
+Name
+Location
+
+
+
 
