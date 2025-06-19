@@ -1,0 +1,8 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@foreach (var item in ViewBag.Contacts)
+{
+    <div>@item.Name - @item.Location</div>
+}

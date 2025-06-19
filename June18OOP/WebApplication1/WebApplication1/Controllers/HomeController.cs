@@ -15,6 +15,12 @@ namespace WebApplication1.Controllers
             return View();
         }
 
+        public IActionResult Trainees()
+        {
+            List<string> trainees = new List<string>(){"Shalvin", "Abinu", "Hima"};
+            ViewBag.Trainees = trainees;
+            return View();
+        }
         public IActionResult Privacy()
         {
             return View();
