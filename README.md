@@ -117,5 +117,31 @@ Name
 Location
 
 
+# Assignment
+## 1.  Generic List of class 
+Create a Generic List of Class called Technologies with properties like Name and Vendor. Initialize it with values like .Net - Microsoft, 
+Java - Oracle, etc. Use it in Console and MVC.
+
+# June 19
+
+
+
+#₹ Assignments
+
+### 1.
+Create an MVC Application called Toch.
+    In the Home Controller's Index Action method's view, provide Toch's information.
+    Create CS and IT Controllers with Action Names corresponding to trainee names.
+    Use Hyperlinks.
+
+
+### 2. 
+Display a generic list of string data in MVC.
+    Generic list should display the trainee names.
+
+
+### 3. 
+Display generic list of class data in MVC.
+    The class should have Name, Location, and Branch properties.
 
 
