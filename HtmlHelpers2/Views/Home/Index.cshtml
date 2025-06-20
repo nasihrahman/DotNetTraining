@@ -1,0 +1,14 @@
+﻿
+<div>@ViewBag.Hello</div>
+
+<form method="post" action="/home/index">
+<div>
+    @Html.Label("Name")
+    @Html.TextBox("Name")
+</div> 
+<div>
+    @Html.Label("Location")
+    @Html.TextBox("Location")
+</div>
+<input type="submit"/>
+</form>
