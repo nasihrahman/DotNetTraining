@@ -6,3 +6,17 @@
 {
     <div>@item.Name - @item.Location</div>
 }
+
+<hr/>
+
+<table class="table table-bordered table-striped table-dark">
+    <tr>
+        <th>Name</th><th>Location</th>
+    </tr>
+    @foreach (var item in ViewBag.Contacts)
+    {
+        <tr>
+            <td>@item.Name</td><td>@item.Location</td>
+        </tr>
+    }
+</table>

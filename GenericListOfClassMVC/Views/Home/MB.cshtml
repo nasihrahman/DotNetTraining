@@ -1,0 +1,21 @@
+﻿@model List<GenericListOfClassMVC.Models.TouristLocations>
+@{
+    ViewData["Title"] = "MB";
+}
+
+<h1>MB</h1>
+
+
+@foreach (var item in Model)
+{
+    <div>@item.Name - @item.District</div>
+}
+
+<hr/>
+
+<select>
+    @foreach (var item in Model)
+    {
+        <option>@item.District</option>
+    }
+</select>

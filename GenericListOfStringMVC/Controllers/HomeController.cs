@@ -12,6 +12,9 @@ namespace GenericListOfStringMVC.Controllers
         public IActionResult Index()
         {
             ViewBag.Trainees = trainees;
+
+            
+
             return View();
         }
 
