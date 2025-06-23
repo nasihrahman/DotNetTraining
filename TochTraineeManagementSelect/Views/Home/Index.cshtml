@@ -1,0 +1,26 @@
+﻿@model List<TochTraineeManagementSelect.Models.Trainee>
+
+    <a asp-action="Create">Create</a>
+
+
+
+
+<table class="table table-striped table-dark">
+    <tr>
+        <th>Name</th><th>Location</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Location</td>
+        </tr>
+    }
+</table>
+
+<hr />
+@foreach (var item in Model)
+{
+    <div>@item.Name</div>
+}
+

@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@foreach(var item in ViewBag.Locations)
+{
+    <div>@item.Name - @item.District</div>
+}
+
+<hr />
+<table class="table table-bordered">
+    <tr>
+        <th>Name</th> <th>Location</th>
+ </tr>
+ @foreach (var item in ViewBag.Locations)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.District</td>
+        </tr>
+    }
+</table>

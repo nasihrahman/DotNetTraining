@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewData["Title"] = "Trainees";
+}
+
+<h1>Trainees</h1>
+
+@foreach (var item in ViewBag.Trainees)
+{
+    <div>@item</div>
+}
+<br/>
+<ol>
+    @foreach (var item in ViewBag.Trainees)
+    {
+        <li>@item</li>
+    }
+</ol>
+<br/>
+<ul>
+    @foreach (var item in ViewBag.Trainees)
+    {
+        <li>@item</li>
+    }
+</ul>
+
